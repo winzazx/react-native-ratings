@@ -6,7 +6,7 @@
   "types": "./dist/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/Monte9/react-native-ratings.git"
+    "url": "git+https://github.com/winzazx/react-native-ratings.git"
   },
   "keywords": [
     "react-native",
